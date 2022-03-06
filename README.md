@@ -1,2 +1,1 @@
-https://onedrive.live.com/view.aspx?resid=7A981A4F972AA18E%216251&id=documents&wd=target%28Tech-Trainings.one%7C04B231B3-C895-4EEA-851C-0293CAD39E87%2FBuilding%20Java%20Application%20with%20gradle%7C078B60B1-F6B7-4F89-826A-E1FE8211DE01%2F%29
-onenote:https://d.docs.live.net/7a981a4f972aa18e/Documents/Telus/Tech-Trainings.one#Building%20Java%20Application%20with%20gradle&section-id={04B231B3-C895-4EEA-851C-0293CAD39E87}&page-id={078B60B1-F6B7-4F89-826A-E1FE8211DE01}&end
+
